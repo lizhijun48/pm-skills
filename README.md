@@ -450,6 +450,4 @@ The remaining 10%: open services.msc > start "Claude" service manually
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
-#   t e s t  
- 
+MIT — see [LICENSE](LICENSE). 
